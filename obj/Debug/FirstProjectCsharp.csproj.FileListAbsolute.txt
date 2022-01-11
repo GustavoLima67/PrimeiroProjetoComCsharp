@@ -1,0 +1,3 @@
+C:\Users\Gustavo\Documents\C#Projects\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\FirstProjectCsharp.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\C#Projects\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\FirstProjectCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\C#Projects\FirstProjectCsharp\FirstProjectCsharp\obj\Debug\FirstProjectCsharp.csproj.CoreCompileInputs.cache
